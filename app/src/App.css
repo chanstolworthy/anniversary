@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.an-main-image{
+  height: 300px;
+}
+.an-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.an-big-title{
+  font-size: 24px;
+  margin: 10px 0;
+}
+.an-med-title{
+  font-size: 19px;
+  margin: 10px 0;
+}
+.an-main-button{
+  background: lightcoral;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100px;
+  margin: auto;
+}
+.an-main-button-img{
+  cursor: pointer;
+  width: 100px;
+  margin: auto;
+}
+.standard-image{
+  height: 100px;
+}
+.an-input{
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  outline: none;
+  padding: 10px;
+  margin: 10px 0;
+}
+.incorrect-tag{
+  font-size: 10px;
+  color: lightcoral;
+  margin: 5px;
+}
